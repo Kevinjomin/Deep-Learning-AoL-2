@@ -19,7 +19,6 @@ Deep Learning project for AI vs Human Text classification using dataset obtained
 * **`Models/`**
   The .pt file for both of the final trained model (LSTM and Parallel CNN-LSTM).
 
----
 
 ## How to Run
 
@@ -27,7 +26,6 @@ Deep Learning project for AI vs Human Text classification using dataset obtained
 2. Select a Python kernel / virtual environment (Note: Python 3.10.0 was used)
 3. Run the code (library installations are contained in the notebook).
 
----
 
 ## Dataset Reference
 A. A. Bataineh, R. Sickler, K. Kurcz, and K. Pedersen, “AI-Generated vs. Human Text: Introducing a New Dataset for Benchmarking and Analysis,” IEEE Transactions on Artificial Intelligence, doi: 10.1109/TAI.2025.3544183.
